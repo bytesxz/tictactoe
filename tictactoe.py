@@ -107,6 +107,6 @@ def game():
         write(p2, place, temp_d)
 
 
-#testing area
+#run
 
 game()
